@@ -13,10 +13,8 @@
 
 
 body {
-    
-   
     background-color: rgb(200, 200, 200);
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, serif;
     font-size: 1.03em;
     margin-bottom: 20px;
 }
@@ -40,6 +38,12 @@ h2{
     font-weight: 800;
     font-size: 2em;
 }
+
+.voyelle {
+        font-size: 0.790em;
+        font-weight: 700;
+} 
+
 .linkred {
     color: #cf0025;
     font-weight: bold;
@@ -114,4 +118,14 @@ figcaption {
     font-size: 1.2em;
     line-height: 1.4em;
     
+}
+pre {
+    color: rgb(79, 69, 174) ;
+    border: 2px dashed rgb(79, 69, 174);
+    margin: auto;
+    font-weight: bold;
+    font-size: 1.2em;
+    line-height: 1.4em;
+    width : 70%;
+    padding-left: 30px;
 }
