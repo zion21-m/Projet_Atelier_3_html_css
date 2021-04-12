@@ -14,7 +14,7 @@
 
 body {
     background-color: rgb(200, 200, 200);
-    font-family: Arial, Helvetica, serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 1.03em;
     margin-bottom: 20px;
 }
@@ -40,8 +40,8 @@ h2{
 }
 
 .voyelle {
-        font-size: 0.790em;
-        font-weight: 700;
+    font-size: 0.790em;
+    font-weight: 700;
 } 
 
 .linkred {
@@ -75,8 +75,6 @@ tr :hover {
     background-color: rgb(153, 153, 153);
 }
 
-
-
 .couleurligne {
     background-color: rgb(221, 221, 221);
 }
@@ -84,14 +82,11 @@ tr :hover {
     font-weight: bold;
 } 
 .image {
-    
     width: 90%;
     margin: auto;
     display: block;
-  
 }
 figure {
-    
     background-color: rgb(51, 51, 51);
     border: 3px solid #cf0d30;
     border-radius: 10px;
@@ -99,11 +94,9 @@ figure {
     padding-top: 40px;
     margin-left: 0px;
     width: 100%;
-    
 }
 figcaption {
     text-align: center;
-    
     font-style: italic;
     font-weight: bold;
     padding-bottom: 30px;
@@ -122,7 +115,6 @@ figcaption {
     font-weight: bold;
     font-size: 1.2em;
     line-height: 1.4em;
-    
 }
 pre {
     color: rgb(79, 69, 174) ;
